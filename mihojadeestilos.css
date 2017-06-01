@@ -1,0 +1,52 @@
+body {
+	font:"Comic Sans MS", cursive
+}
+.boton_1{
+    text-decoration: none;
+    padding: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: helvetica;
+    font-weight: 150;
+    font-size: 13px;
+    font-style: italic;
+    color: #006505;
+    background-color: #82b085;
+    border-radius: 15px;
+    border: 3px double #006505;
+
+  }
+  .boton_1:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+	
+@charset "utf-8";
+/* CSS Document */
+#TITULO{
+	background-color:#CCC;
+}
+#T1{
+	background-color:#FFF;
+}
+#NAV1{
+	background-color:#FFF;
+}
+li {
+	background-color:#999;
+	display:inline;
+}
+#asa1{
+	height:3250px;
+	float:left
+}
+#asa2 {
+	height:360px;
+	float:right;
+
+#a1 {
+	margin:auto;
+}
+#ALINEA-D{
+	float:right;
+}
